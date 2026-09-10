@@ -1,29 +1,29 @@
 {
-  "schema": "srai.validation-report.v1",
-  "production_unit": "PU-B02-C01",
-  "status": "PASS",
-  "notebook": {
-    "code_cells": 21,
-    "executed_code_cells": 21,
-    "error_count": 0,
-    "canonical_fact_checks": {
-      "30.876": true,
-      "40.496": true,
-      "103.958": true,
-      "2.048": true,
-      "0.955": true
-    }
-  },
-  "presentation": {
-    "slide_count": 30,
-    "speaker_notes_count": 30,
-    "nonempty_speaker_notes": 30
-  },
-  "documents": {
-    "student_assessment_pages": 2,
-    "instructor_solutions_pages": 2,
-    "executive_brief_pages": 2,
-    "visual_review": "PASS"
-  },
-  "manifest_file_count": 19
+    "schema":  "srai.validation-report.v1",
+    "production_unit":  "PU-B02-C01",
+    "status":  "PASS",
+    "notebook":  {
+                     "code_cells":  21,
+                     "executed_code_cells":  21,
+                     "error_count":  0,
+                     "canonical_fact_checks":  {
+                                                   "30.876":  true,
+                                                   "40.496":  true,
+                                                   "103.958":  true,
+                                                   "2.048":  true,
+                                                   "0.955":  true
+                                               }
+                 },
+    "presentation":  {
+                         "slide_count":  30,
+                         "speaker_notes_count":  30,
+                         "nonempty_speaker_notes":  30
+                     },
+    "documents":  {
+                      "student_assessment_pages":  2,
+                      "instructor_solutions_pages":  2,
+                      "executive_brief_pages":  2,
+                      "visual_review":  "PASS"
+                  },
+    "manifest_file_count":  22
 }

@@ -15,8 +15,9 @@
 - Controlled lesson in DOCX and PDF
 - Executed canonical companion notebook
 - SRAI lesson presentation with audience-facing narration
-- Student assessment and instructor solutions
-- Executive brief
+- Student assessment in DOCX and PDF
+- Instructor solutions in DOCX and PDF
+- Executive brief in DOCX and PDF
 - YouTube production and caption controls
 - GitHub README and citation metadata
 - Website lesson copy and integration specification
@@ -34,7 +35,16 @@
 - Leakage demonstration RMSE: 2.048 and rejected as invalid
 - Presentation: 30 slides with 30 non-empty audience-facing speaker notes
 
+## Publication state
+
+- Controlled initial commit: 5258cf10c47ad8d3b2581ef8f077cadb041aad37
+- Controlled tag: pu-b02-c01-v0.1.0
+- GitHub pre-release: published
+- Publication PDF supplement: installed and pending controlled commit
+- Website publication: pending
+- YouTube publication: pending
+- LinkedIn publication: pending
+
 ## Release boundary
 
-This is a controlled review package. Public upload, repository commit, website migration, YouTube publication and LinkedIn publication require explicit owner approval and channel-specific identifiers.
-
+The rendered MP4 is retained locally as the video master and is not committed to GitHub. Website, YouTube and LinkedIn publication require explicit owner approval and their channel-specific identifiers.
