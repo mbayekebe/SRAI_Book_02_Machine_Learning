@@ -1,0 +1,103 @@
+{
+  "schema": "srai.asset-manifest.v1",
+  "production_unit": "PU-B02-C01",
+  "candidate_version": "0.1",
+  "file_count": 19,
+  "files": [
+    {
+      "path": "START_HERE.md",
+      "bytes": 620,
+      "sha256": "24d4166c5651acc46636f68b40d161ec3426b56095c3466625f839d07c54a8e5"
+    },
+    {
+      "path": "assessment/PU-B02-C01_Instructor_Solutions_v0.1.docx",
+      "bytes": 40353,
+      "sha256": "28a5f3ba3d11856308216fa0179a8f259c888e3a462b3cbabb76a7662d357aaf"
+    },
+    {
+      "path": "assessment/PU-B02-C01_Student_Assessment_v0.1.docx",
+      "bytes": 39871,
+      "sha256": "8639bcb6e16b00d4fa4872157892e5a5112e3c64a4d277bbf6bda6bf80b1dcc7"
+    },
+    {
+      "path": "evidence/RELEASE_RECORD.md",
+      "bytes": 1328,
+      "sha256": "400b3bac7eda4d2c259b563fd36cd87651a4aad000460c7c8d0b8fea6ee75c00"
+    },
+    {
+      "path": "executive/PU-B02-C01_Executive_Brief_v0.1.docx",
+      "bytes": 39856,
+      "sha256": "4902d159835109a206c293597b9b1b3109538a34f8aa198dc7aef3d569efc071"
+    },
+    {
+      "path": "github/CITATION.cff",
+      "bytes": 311,
+      "sha256": "a42d3411806fec7eba30b362ac1bf68f22a6a077f604bc641cb07d6f2ef8b94b"
+    },
+    {
+      "path": "github/README.md",
+      "bytes": 2031,
+      "sha256": "d2450dd87fd9860c05f7e306e352d31d11f5ec676a5c5cea3428c246e1c285d8"
+    },
+    {
+      "path": "lesson/PU-B02-C01_Supervised_Learning_Foundations_SRAI_v0.3.docx",
+      "bytes": 41842,
+      "sha256": "a2254db3192648c1b31d531f571121687a6c9b7bd86dbf6affe42817573a3728"
+    },
+    {
+      "path": "lesson/PU-B02-C01_Supervised_Learning_Foundations_SRAI_v0.3.pdf",
+      "bytes": 511534,
+      "sha256": "83bab1264cf2f38539495be5ee7e4c0ad5c7ded81b2f2bd33d53ced7cb0ec237"
+    },
+    {
+      "path": "linkedin/PU-B02-C01_LinkedIn_Carousel_Copy_v0.1.md",
+      "bytes": 867,
+      "sha256": "ecf10352ecb11501e0f20c5243890279f1d072bebcc71d3e363df79586ffb69d"
+    },
+    {
+      "path": "linkedin/PU-B02-C01_LinkedIn_Post_v0.1.md",
+      "bytes": 1262,
+      "sha256": "999e17ffeb1fdc8fa9281845d32a559ce6aec5ab203ccb10556ef528d8a0da4e"
+    },
+    {
+      "path": "notebook/M2_N01_supervised_learning_foundations_SRAI_v0.3.ipynb",
+      "bytes": 488545,
+      "sha256": "706e319989b713a77784fdd952c178db5cd5362a1d7a56651918e419cb2a45a7"
+    },
+    {
+      "path": "slides/PU-B02-C01_Supervised_Learning_Foundations_Lesson_Presentation_v0.4.pptx",
+      "bytes": 132413,
+      "sha256": "f4ad7499c9ecd50b1e100043780ad66a116597e00dba7433511b8345122cee36"
+    },
+    {
+      "path": "video/PU-B02-C01_Caption_and_Narration_Control_v0.1.md",
+      "bytes": 917,
+      "sha256": "1f003658da7f8b5f7a949cc04e0a622e0ef8e6d3073f5c5ace5e0f813e61d9c2"
+    },
+    {
+      "path": "video/PU-B02-C01_YouTube_Production_Package_v0.1.md",
+      "bytes": 3265,
+      "sha256": "548c5c4a9925095b66e57d70a50827040e255a53dc0b2ebe91b72f4befc425a1"
+    },
+    {
+      "path": "video/PU-B02-C01_YouTube_Thumbnail_v0.1.png",
+      "bytes": 74162,
+      "sha256": "b261956d99bc44a81ca78a97752cc4e2109f99dbdc8e739b6471f9a33ce1f8c0"
+    },
+    {
+      "path": "video/PU-B02-C01_YouTube_Thumbnail_v0.1.svg",
+      "bytes": 2100,
+      "sha256": "127ee35c15cd6f714e07e1bed4e5f224fba677fc86d042780295e4efdf3636e2"
+    },
+    {
+      "path": "website/PU-B02-C01_Website_Integration_Specification_v0.1.md",
+      "bytes": 986,
+      "sha256": "4a14c8aef5d011abdf1c7e2ce8a61cc474170b5522d1c27cd9c31c1c3806de40"
+    },
+    {
+      "path": "website/PU-B02-C01_Website_Lesson_Copy_v0.1.md",
+      "bytes": 1670,
+      "sha256": "551d390c0a137a31d960f7e2c447503dd08526bf7e70c9552655c4451cf375a7"
+    }
+  ]
+}

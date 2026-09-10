@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#03172A"/>
+  <rect x="0" y="0" width="22" height="720" fill="#DCA24A"/>
+  <rect x="900" y="0" width="380" height="720" fill="#0A2336"/>
+  <text x="72" y="76" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#DCA24A">SRAI · BOOK 2 · LESSON 1</text>
+  <text x="72" y="200" font-family="Arial, sans-serif" font-size="66" font-weight="700" fill="#FFFFFF">SUPERVISED</text>
+  <text x="72" y="278" font-family="Arial, sans-serif" font-size="66" font-weight="700" fill="#FFFFFF">LEARNING</text>
+  <text x="72" y="356" font-family="Arial, sans-serif" font-size="66" font-weight="700" fill="#FFFFFF">FOUNDATIONS</text>
+  <rect x="72" y="405" width="265" height="7" fill="#67B7B4"/>
+  <text x="72" y="474" font-family="Arial, sans-serif" font-size="29" fill="#DDE8E7">What makes a score credible?</text>
+  <rect x="958" y="145" width="265" height="154" rx="16" fill="#DCA24A"/>
+  <text x="1090" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#03172A">VALID MODEL</text>
+  <text x="1090" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#03172A">30.876</text>
+  <rect x="958" y="340" width="265" height="154" rx="16" fill="#2F776F"/>
+  <text x="1090" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">LEAKED MODEL</text>
+  <text x="1090" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#FFFFFF">2.048</text>
+  <text x="1090" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#DCA24A">SMALLER IS NOT</text>
+  <text x="1090" y="567" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#DCA24A">ALWAYS BETTER</text>
+  <text x="72" y="650" font-family="Arial, sans-serif" font-size="22" fill="#67B7B4">Mbaye Kebe · Statistics Responsible AI</text>
+</svg>
